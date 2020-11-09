@@ -1,0 +1,8 @@
+This is a Flask web app project to learn more about flask, and hopefully be able to compare it to the 
+Django project for components and ease of coding.
+
+This project will create a web app of blog entry creations.
+
+I want to learn how to create Python environments, use git for version control and sharing, flask framework, 
+use of requirements.txt to set up exact deployment environments, and hopefully user registration and maintenance,
+and web security within the flask app.
