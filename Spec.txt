@@ -1,3 +1,5 @@
+Project document location: https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3#step-1-%E2%80%94-installing-flask
+
 This is a Flask web app project to learn more about flask, and hopefully be able to compare it to the 
 Django project for components and ease of coding.
 
